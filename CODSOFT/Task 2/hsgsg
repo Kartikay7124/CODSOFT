@@ -1,0 +1,100 @@
+<article class="blog" data-page="experience">
+
+        <header>
+          <h2 class="h2 article-title">Experience</h2>
+        </header>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Experience</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Jr. Web Developer</h4>
+
+              <span>September 2022 - May 2024</span>
+
+              <p class="timeline-text">
+                Developed and maintained web applications using modern technologies to enhance user experience and
+                functionality.
+              </p>
+
+            </li>
+
+            <!-- <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Event Management</h4>
+
+              <span>2022</span>
+
+              <p class="timeline-text">
+                I have managed and organized a Event called Tech-Kutumb held by CODEC Club (SUAS). In Tech-Kutumb we
+                held many games and quizes and an open workshop for all related to Programming.
+              </p>
+
+            </li> -->
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">IGTR</h4>
+
+              <span>June 2023 - August 2023</span>
+
+              <p class="timeline-text">
+                Interned at IGTR where I gained hands-on experience in Java programming, focusing on core concepts and
+                application development.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">WCPL</h4>
+
+              <span>June 2024 - Present</span>
+
+              <p class="timeline-text">
+                Responsible for overseeing recruitment, employee relations, and fostering a positive work environment.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Prodigy Infotech</h4>
+
+              <span>June 2024 - Present</span>
+
+              <p class="timeline-text">
+                Hands-on experience in web development projects, focusing on learning and applying frontend and backend technologies.
+
+
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">CodSoft</h4>
+
+              <span>June 2024 - Present</span>
+
+              <p class="timeline-text">
+                Learning and applying web development skills in a dynamic internship.
+
+
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
